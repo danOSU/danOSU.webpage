@@ -28,8 +28,7 @@ twitter_username: dananjayal
 github_username:  danOSU
 
 # Build settings
-#theme: jekyll-theme-midnight
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -52,5 +51,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-#theme: jekyll-theme-hacker
