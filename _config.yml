@@ -28,7 +28,8 @@ twitter_username: dananjayal
 github_username:  danOSU
 
 # Build settings
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
+remote_theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
