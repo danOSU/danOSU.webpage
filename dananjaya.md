@@ -4,5 +4,10 @@ title: "Contact Information"
 permalink: /about/Contact/
 ---
 
-This is Absurd. I'm adding content matter and they are not
-showing up in Contact info.
+Email Addresses:
+<liyanage.5@osu.edu>
+<liyanagedananjaya@gmail.com>
+
+Office:
+
+3027  Physics Research Building 191 W Woodruff Ave  Columbus  OH 43210
