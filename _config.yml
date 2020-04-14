@@ -29,7 +29,7 @@ github_username:  danOSU
 
 # Build settings
 #minima
-theme: Memoirs
+theme: minima
 plugins:
   - jekyll-feed
 
