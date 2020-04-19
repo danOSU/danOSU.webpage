@@ -3,7 +3,7 @@ layout: page
 title: "Contact Information"
 permalink: /about/Contact/
 ---
-<img src="{{'home-feature.jpg' | relative_url }} " align="right" height="500" width="325">
+<img src="{{'/Assets/home-feature.jpg' | relative_url }} " align="right" height="500" width="325">
 
 Email Addresses:     
 <liyanage.5@osu.edu>    
