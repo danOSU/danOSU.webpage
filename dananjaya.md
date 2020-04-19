@@ -14,3 +14,5 @@ Physics Research Building
 191 W Woodruff Ave     
 Columbus     
 OH 43210
+
+<img src="{{site.baseurl}}\assets\home-feature.jpg" align="center">
