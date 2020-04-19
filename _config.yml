@@ -20,12 +20,12 @@
 
 title: Dananjaya Liyanage
 email: liyanage.5@osu.edu
-feature_img: home-feature.jpg
+feature_img: Note.png
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal website to post things that interesting.
+  Increasing the entropy of the universe since 1992.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dananjayal
+twitter_username: Dananjayaliyana
 github_username:  danOSU
 
 # Build settings

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "My First Post"
+title: "First post"
 date: 2020-04-13 18:34:53 -0000
 categories: Science Math
 ---
-This is the post content we will see.
+"Hello world"
